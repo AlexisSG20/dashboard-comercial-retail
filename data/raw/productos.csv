@@ -1,0 +1,27 @@
+﻿producto_id;producto;categoria;costo_unitario;precio_unitario
+1;Audífonos;Tecnología;174;242.37
+2;Mouse;Tecnología;670;1150.48
+3;Teclado;Tecnología;123;212.75
+4;Monitor;Tecnología;606;1059.28
+5;Smartwatch;Tecnología;47;69.39
+6;Parlante;Tecnología;96;125.45
+7;Lámpara;Hogar;346;522.78
+8;Organizador;Hogar;614;919.26
+9;Silla;Hogar;233;316.86
+10;Mesa auxiliar;Hogar;660;1154.83
+11;Juego de sábanas;Hogar;363;519.38
+12;Casaca;Moda;114;181.86
+13;Polo;Moda;523;770.23
+14;Jean;Moda;231;361.58
+15;Zapatillas;Moda;55;74.85
+16;Mochila;Moda;105;142.24
+17;Pelota;Deportes;310;439.51
+18;Mancuernas;Deportes;282;377.84
+19;Mat yoga;Deportes;140;244.74
+20;Tomatodo;Deportes;293;479.99
+21;Bicicleta estática;Deportes;244;382.02
+22;Perfume;Belleza;77;96.8
+23;Crema facial;Belleza;680;1081.01
+24;Shampoo;Belleza;306;405.54
+25;Plancha cabello;Belleza;682;978.48
+26;Set maquillaje;Belleza;478;835.82

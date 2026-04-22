@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter / notebooks
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Power BI temp / cache
+*.tmp
+*.bak
+*.log
+
+# Optional: ignore local Power BI autosave files if they appear
+*.pbix.autosave
