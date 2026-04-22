@@ -48,6 +48,8 @@ dashboard-comercial-retail/
 │   ├── procesar_dataset.py
 │   └── generar_dim_fecha.py
 ├── powerbi/
+│   ├── DashBoard-Comercial-Retail.pbix
+│   ├── theme-retail-ejecutivo.json
 ├── images/
 │   ├── resumen-ejecutivo.png
 │   └── metas-y-cumplimiento.png
@@ -139,7 +141,11 @@ Este proyecto permitió reforzar conocimientos en:
 - Modelado relacional y medidas en Power BI
 - Diseño de dashboards ejecutivos para negocio
 
+## Documentación adicional
+
+- [Documentación técnica del proyecto](docs/documentacion-tecnica-dashboard-retail.pdf)
+
 ## Autor
 
-**Alexis Suasnabar**  
+**Alexis Suasnabar Gaspar**  
 Proyecto desarrollado como parte de mi portafolio para roles de Analista de Datos Junior / BI Junior.
